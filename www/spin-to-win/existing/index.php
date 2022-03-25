@@ -1,5 +1,5 @@
 <?php
-require_once(__DIR__ . '/../../../../tachitablet-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-configuration.php');
+require_once(__DIR__ . '/../../../../apachegold0322-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-configuration.php');
 ?>
 
 <div class="container-fluid my-3">
