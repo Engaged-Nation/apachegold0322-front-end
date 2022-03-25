@@ -4,7 +4,7 @@
 $enId = '5922aed97c988da6960fdf28afa8e194';
 if (empty($_GET['en_id']) || $_GET['en_id'] != $enId) return;
 
-require_once(__DIR__ . '/../../../tachitablet-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-configuration.php');
+require_once(__DIR__ . '/../../../apachegold0322-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-configuration.php');
 
 $assetVersion = ($enConfigClient['environment']['env'] == 'dev') ? time() : $enConfigClient['environment']['deploy_id'];
 $enIdToken = $enEncryptionClient->encrypt(
