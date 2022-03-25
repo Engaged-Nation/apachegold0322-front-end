@@ -40,7 +40,7 @@
             </div>
         </div>
     </div>
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=apachegold0322&client_id=5922aed97c988da6960fdf28afa8e194" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=apachegold0322&client_id=5ff9694325fed4e53672235e7f46db89" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
 </body>
